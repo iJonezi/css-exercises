@@ -1,0 +1,16 @@
+/* Group first, then 1st and 2nd elements */
+
+.me-first,
+.no-me-first {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me-first {
+    background-color: black;
+    color: white;
+}
+
+.no-me-first {
+    background-color: yellow;
+}
