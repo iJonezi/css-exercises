@@ -1,0 +1,19 @@
+.odds {
+    background: #f53b9e;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#firstID {
+    color: #3b73f5;
+    font-size: 36px;
+}
+
+.odds.second {
+    font-size: 24px;
+}
+
+#secondID {
+    background: #42cc3d;
+    font-size: 24px;
+    font-weight: 700;
+}
